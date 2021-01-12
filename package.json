@@ -1,6 +1,6 @@
 {
   "name": "arithmetic-operations",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "homepage": "https://github.com/Manimekalai-Devaraj/arithmetic-operations",
@@ -11,7 +11,10 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": [
+    "github",
+    "arithmetic operations"
+  ],
   "author": "Manimekalai<mani.devaraj@anywhere.co>",
   "license": "ISC"
 }
